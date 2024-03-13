@@ -8,8 +8,8 @@ Code for ICLR 2024 Spotlight Paper "[Understanding and Mitigating the Label Nois
 Our pre-trained models (noisy) are released by by request.
 You can also pre-train your own models on noisy datasets using [timm](https://github.com/huggingface/pytorch-image-models) and [open_clip](https://github.com/mlfoundations/open_clip).
 Once you have the pre-trained models, replace/create the model config as in:
-1. 
-2.
+1. https://github.com/Hhhhhhao/Noisy-Model-Learning/blob/e9c5fb1b50e53351ebbd388532715f400be1b87e/timm/models/resnet.py#L73
+2. https://github.com/Hhhhhhao/Noisy-Model-Learning/blob/e9c5fb1b50e53351ebbd388532715f400be1b87e/timm/models/resnet.py#L73
 
 
 ## Training 
